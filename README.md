@@ -1,5 +1,5 @@
-# Hi 👋 My name is [Pranathikonchada]
-You can contact me at [pranathikonchada9@gmail.com]
+# Hi 👋 My name is Pranathikonchada
+You can contact me at pranathikonchada9@gmail.com
 
 ## Skills
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)

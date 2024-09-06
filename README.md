@@ -1,5 +1,6 @@
 # Hi 👋 My name is Pranathikonchada
-I'm a passionate Software and Full Stack Developer with a diverse skill set, proficient in various programming languages and technologies. From crafting high-performance software solutions to designing immersive web applications, I thrive on challenges and am constantly exploring new technologies to stay ahead of the curve
+I'm a passionate Software and Full Stack Developer with a diverse skill set, proficient in various programming languages and technologies. From crafting high-performance software solutions to designing immersive web applications, I thrive on challenges and am constantly exploring new technologies to stay ahead of the curve.
+
 You can contact me at pranathikonchada9@gmail.com
 
 ## Skills
